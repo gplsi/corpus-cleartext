@@ -27,5 +27,5 @@ Cada documento está disponible como un archivo **.json**, con la siguiente estr
     },
   ]
 }
-```json
+```
 
