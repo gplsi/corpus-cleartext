@@ -23,7 +23,7 @@ Cada documento está disponible como un archivo **.json**, con la siguiente estr
     },
     {
       "page":"número de página",
-      "text":"texto de la página"
+      "content":"texto de la página"
     },
   ]
 }

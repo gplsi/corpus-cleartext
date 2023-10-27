@@ -1,216 +1,216 @@
 {
-    "Título": "Derecho al voto",
-    "Versión": "abril 2023",
-    "Url": "https://www.comunidad.madrid/transparencia/sites/default/files/ckeditor/guia_voto_2023.pdf",
-    "LF": true,
-    "Documento": [
+    "title": "Derecho al voto",
+    "version": "abril 2023",
+    "url": "https://www.comunidad.madrid/transparencia/sites/default/files/ckeditor/guia_voto_2023.pdf",
+    "lf": true,
+    "document": [
         {
-            "Página": 0,
-            "Texto": ""
+            "page": 0,
+            "content": ""
         },
         {
-            "Página": 1,
-            "Texto": ""
+            "page": 1,
+            "content": ""
         },
         {
-            "Página": 2,
-            "Texto": "Guía práctica sobre el derecho al voto en las elecciones del 28 de mayo \nde 2023. En lectura fácil\n© Comunidad de Madrid\nEdición: abril 2023\nPublicación realizada dentro del convenio firmado entre la Comunidad \nde Madrid y Plena Inclusión Madrid en 2021 y prorrogado en 2022 y \n2023\nREDACCIÓN EN LECTURA FÁCIL\nServicio Adapta – Plena Inclusión Madrid\nCon contenidos tomados de la “Guía de derecho al voto en lectura fácil” (Fundación Wolters Kluwer, \nPlena Inclusión Madrid, Ministerio de Sanidad, Servicios Sociales e Igualdad, 2016) y la “Guía para participar en las elecciones en lectura fácil” (Plena inclusión Extremadura, Junta de Extremadura, 2017)\nVALIDACIÓN DE TEXTOS\nServicio Adapta – Apama\nDISEÑO Y MAQUETACIÓN\nLoga Publicidad\nIMPRENTA\nBoletín Oficial de la Comunidad de Madrid\nDepósito legal: M-9239-2023LOGO DE PORTADA\n© Logo europeo de lectura fácil: Inclusion Europe\nMás información en www.easy-to-read.eu  "
+            "page": 2,
+            "content": "Guía práctica sobre el derecho al voto en las elecciones del 28 de mayo \nde 2023. En lectura fácil\n© Comunidad de Madrid\nEdición: abril 2023\nPublicación realizada dentro del convenio firmado entre la Comunidad \nde Madrid y Plena Inclusión Madrid en 2021 y prorrogado en 2022 y \n2023\nREDACCIÓN EN LECTURA FÁCIL\nServicio Adapta – Plena Inclusión Madrid\nCon contenidos tomados de la “Guía de derecho al voto en lectura fácil” (Fundación Wolters Kluwer, \nPlena Inclusión Madrid, Ministerio de Sanidad, Servicios Sociales e Igualdad, 2016) y la “Guía para participar en las elecciones en lectura fácil” (Plena inclusión Extremadura, Junta de Extremadura, 2017)\nVALIDACIÓN DE TEXTOS\nServicio Adapta – Apama\nDISEÑO Y MAQUETACIÓN\nLoga Publicidad\nIMPRENTA\nBoletín Oficial de la Comunidad de Madrid\nDepósito legal: M-9239-2023LOGO DE PORTADA\n© Logo europeo de lectura fácil: Inclusion Europe\nMás información en www.easy-to-read.eu  "
         },
         {
-            "Página": 3,
-            "Texto": "Los contenidos de esta guía\n¿Qué es esta guía?  ................................................................................. 6\n¿Qué elecciones hay el 28 de mayo de 2023?  ..................................... 7\n • Las comunidades autónomas  .......................................................... 8\n • Los ayuntamientos ......................................................................... 10\n¿Cómo son las elecciones en España?  ................................................ 13\n • ¿Por qué votamos?  ........................................................................ 14 \n • ¿Quién puede votar?  ..................................................................... 15 \n • ¿A quién puedo votar?  .................................................................. 16 \n • ¿Cómo puedo conocer las propuestas\n de los partidos polític os? ............................................................... 19\n • ¿Cómo puedo votar?  ..................................................................... 20\nAntes de votar  ...................................................................................... 23\n • ¿Debo estar en alguna lista para ir a votar?  ................................. 24\n • ¿Cómo puedo comprobar que mis datos\n son c orrectos en el censo?  ............................................................ 25\n • No puedo ir a votar el día de las elecciones, \n ¿c ómo pido el voto por correo?  ................................................... 27"
+            "page": 3,
+            "content": "Los contenidos de esta guía\n¿Qué es esta guía?  ................................................................................. 6\n¿Qué elecciones hay el 28 de mayo de 2023?  ..................................... 7\n • Las comunidades autónomas  .......................................................... 8\n • Los ayuntamientos ......................................................................... 10\n¿Cómo son las elecciones en España?  ................................................ 13\n • ¿Por qué votamos?  ........................................................................ 14 \n • ¿Quién puede votar?  ..................................................................... 15 \n • ¿A quién puedo votar?  .................................................................. 16 \n • ¿Cómo puedo conocer las propuestas\n de los partidos polític os? ............................................................... 19\n • ¿Cómo puedo votar?  ..................................................................... 20\nAntes de votar  ...................................................................................... 23\n • ¿Debo estar en alguna lista para ir a votar?  ................................. 24\n • ¿Cómo puedo comprobar que mis datos\n son c orrectos en el censo?  ............................................................ 25\n • No puedo ir a votar el día de las elecciones, \n ¿c ómo pido el voto por correo?  ................................................... 27"
         },
         {
-            "Página": 4,
-            "Texto": "El día de las elecciones  ........................................................................ 31\n • ¿Dónde hay que ir a votar?  ........................................................... 32\n • ¿Cuál es el horario para votar?  ..................................................... 32\n • ¿Qué me encontraré en el colegio electoral?  ............................... 32\n • ¿Qué pasos debo seguir para votar?  ............................................ 35\nLos resultados de las elecciones  ......................................................... 41 \n     • ¿Quién se encarga de contar los votos \n        de las mesas? ................................................................................. 42\n     • ¿Quién se encarga de dar los resultados         de las elecciones?\n .......................................................................... 43\n     • ¿Cómo puedo saber el resultado \n        de las elecciones?  .......................................................................... 45"
+            "page": 4,
+            "content": "El día de las elecciones  ........................................................................ 31\n • ¿Dónde hay que ir a votar?  ........................................................... 32\n • ¿Cuál es el horario para votar?  ..................................................... 32\n • ¿Qué me encontraré en el colegio electoral?  ............................... 32\n • ¿Qué pasos debo seguir para votar?  ............................................ 35\nLos resultados de las elecciones  ......................................................... 41 \n     • ¿Quién se encarga de contar los votos \n        de las mesas? ................................................................................. 42\n     • ¿Quién se encarga de dar los resultados         de las elecciones?\n .......................................................................... 43\n     • ¿Cómo puedo saber el resultado \n        de las elecciones?  .......................................................................... 45"
         },
         {
-            "Página": 5,
-            "Texto": "¿Qué es esta guía?\nEl próximo 28 de mayo de 2023, \ntodas las personas mayores de 18 años \ntienen la posibilidad de votar a sus representantes:\n• En el ayuntamiento de su ciudad o pueblo.\n• En el parlamento de su comunidad autónoma.\nEn esta guía te explicamos \nqué deciden los representantes \nde los ayuntamientos y de la Asamblea, \na quiénes puedes votar y cómo puedes votar.\nEl voto es un derecho de todos los ciudadanos.Todas las personas con discapacidad intelectual \npueden votar sin ningún problema.\n6"
+            "page": 5,
+            "content": "¿Qué es esta guía?\nEl próximo 28 de mayo de 2023, \ntodas las personas mayores de 18 años \ntienen la posibilidad de votar a sus representantes:\n• En el ayuntamiento de su ciudad o pueblo.\n• En el parlamento de su comunidad autónoma.\nEn esta guía te explicamos \nqué deciden los representantes \nde los ayuntamientos y de la Asamblea, \na quiénes puedes votar y cómo puedes votar.\nEl voto es un derecho de todos los ciudadanos.Todas las personas con discapacidad intelectual \npueden votar sin ningún problema.\n6"
         },
         {
-            "Página": 6,
-            "Texto": "28 \nDE MAYO¿QUÉ \nELECCIONES HAY EL 28 DE MAYO DE 2023?"
+            "page": 6,
+            "content": "28 \nDE MAYO¿QUÉ \nELECCIONES HAY EL 28 DE MAYO DE 2023?"
         },
         {
-            "Página": 7,
-            "Texto": "8Las comunidades autónomas\n¿Qué deciden las comunidades autónomas?\nLas comunidades autónomas tienen varias competencias. \nEstas competencias son las responsabilidades \nque afectan a la vida de los ciudadanos, por ejemplo:\n• Administran hospitales y toman decisiones\n r elacionadas con la salud y la atención sanitaria.\n• Administran colegios e institutos \n y t oman decisiones relacionadas con la educación.\n• Administran varias ayudas, \n c omo las de la Ley de Dependencia \n par a personas que necesitan apoyos\n en su vida diaria, c omo personas mayores \n o per sonas con discapacidad.\n• Son los responsables de construir \n algunas carreteras.\n• Administran las oficinas de empleo.28 \nDE MAYO"
+            "page": 7,
+            "content": "8Las comunidades autónomas\n¿Qué deciden las comunidades autónomas?\nLas comunidades autónomas tienen varias competencias. \nEstas competencias son las responsabilidades \nque afectan a la vida de los ciudadanos, por ejemplo:\n• Administran hospitales y toman decisiones\n r elacionadas con la salud y la atención sanitaria.\n• Administran colegios e institutos \n y t oman decisiones relacionadas con la educación.\n• Administran varias ayudas, \n c omo las de la Ley de Dependencia \n par a personas que necesitan apoyos\n en su vida diaria, c omo personas mayores \n o per sonas con discapacidad.\n• Son los responsables de construir \n algunas carreteras.\n• Administran las oficinas de empleo.28 \nDE MAYO"
         },
         {
-            "Página": 8,
-            "Texto": "9¿Qué votan los ciudadanos?\nEn la Comunidad de Madrid, los ciudadanos votan \npara elegir a sus representantes en su parlamento.\nEl parlamento de la Comunidad de Madrid se llama \nAsamblea de Madrid.\nAllí se reúnen los diputados elegidos.Los ciudadanos eligen a 135 diputados autonómicos.Los diputados de la Asamblea de Madrid eligen \nal Presidente de la Comunidad de Madrid\ny hacen leyes y normas que afectan a los ciudadanos de esta comunidad autónoma.28\nDE MAYO"
+            "page": 8,
+            "content": "9¿Qué votan los ciudadanos?\nEn la Comunidad de Madrid, los ciudadanos votan \npara elegir a sus representantes en su parlamento.\nEl parlamento de la Comunidad de Madrid se llama \nAsamblea de Madrid.\nAllí se reúnen los diputados elegidos.Los ciudadanos eligen a 135 diputados autonómicos.Los diputados de la Asamblea de Madrid eligen \nal Presidente de la Comunidad de Madrid\ny hacen leyes y normas que afectan a los ciudadanos de esta comunidad autónoma.28\nDE MAYO"
         },
         {
-            "Página": 9,
-            "Texto": "10Los ayuntamientos\n¿Qué deciden los ayuntamientos?\nEn mayo de 2023, en todas las ciudades y pueblos \nhay elecciones municipales.\nLos gobiernos de las ciudades y pueblos \nson los ayuntamientos.\nLos ayuntamientos tienen varias competencias \nque afectan a la vida de los ciudadanos, por ejemplo:\n• La recogida de basuras.• La ordenación del tráfico para decidir en qué calles \n pueden cir cular coches o pueden aparcar.\n• El asfaltado de las calles.\n• La construcción de parques.\n• La gestión de bibliotecas y polideportivos.\n¿Qué votan los ciudadanos?\nLas elecciones a los ayuntamientos son cada 4 años.\nLos ciudadanos de cada ciudad y cada pueblo eligen \na los concejales. \nLos concejales eligen después al alcalde, \nque preside el ayuntamiento.28 \nDE MAYO"
+            "page": 9,
+            "content": "10Los ayuntamientos\n¿Qué deciden los ayuntamientos?\nEn mayo de 2023, en todas las ciudades y pueblos \nhay elecciones municipales.\nLos gobiernos de las ciudades y pueblos \nson los ayuntamientos.\nLos ayuntamientos tienen varias competencias \nque afectan a la vida de los ciudadanos, por ejemplo:\n• La recogida de basuras.• La ordenación del tráfico para decidir en qué calles \n pueden cir cular coches o pueden aparcar.\n• El asfaltado de las calles.\n• La construcción de parques.\n• La gestión de bibliotecas y polideportivos.\n¿Qué votan los ciudadanos?\nLas elecciones a los ayuntamientos son cada 4 años.\nLos ciudadanos de cada ciudad y cada pueblo eligen \na los concejales. \nLos concejales eligen después al alcalde, \nque preside el ayuntamiento.28 \nDE MAYO"
         },
         {
-            "Página": 10,
-            "Texto": "11El próximo 28 de mayo de 2023 \nhay 2 elecciones en la Comunidad de Madrid: \na los ayuntamientos y a la Asamblea de la Comunidad de Madrid.\nEn cada una de las elecciones eliges a representantes diferentes.Cada institución decide sobre asuntos diferentes \nque son importantes para todos los ciudadanos.\n ¿De qué hemos hablado en este capítulo?28\nDE MAYO"
+            "page": 10,
+            "content": "11El próximo 28 de mayo de 2023 \nhay 2 elecciones en la Comunidad de Madrid: \na los ayuntamientos y a la Asamblea de la Comunidad de Madrid.\nEn cada una de las elecciones eliges a representantes diferentes.Cada institución decide sobre asuntos diferentes \nque son importantes para todos los ciudadanos.\n ¿De qué hemos hablado en este capítulo?28\nDE MAYO"
         },
         {
-            "Página": 11,
-            "Texto": ""
+            "page": 11,
+            "content": ""
         },
         {
-            "Página": 12,
-            "Texto": "¿CÓMO SON \nLAS ELECCIONES EN ESPAÑA?"
+            "page": 12,
+            "content": "¿CÓMO SON \nLAS ELECCIONES EN ESPAÑA?"
         },
         {
-            "Página": 13,
-            "Texto": "14¿Por qué votamos?\nLa democracia es una forma de gobernar.\nUna democracia tiene 2 características importantes:\n• Los ciudadanos tienen derechos y libertades.\n• Hay separación de poderes, es decir, \n el poder del Gobierno , el poder del Parlamento \n y el poder de los jueces son independien tes. \n Cada uno tiene su espacio y sus t areas.\nEn una democracia, los ciudadanos pueden participar\nen las decisiones de los gobernantes de 2 formas:\n• Pueden votar de forma directa esas decisiones. \n Es ta es la democracia directa.\n• Pueden votar a sus representantes \n que neg ocian esas decisiones. \n Es ta es la democracia indirecta.\nEspaña es una democracia indirecta, \nporque los ciudadanos eligen a sus representantes \ncon su voto para que tomen decisiones \nque afectan a todos y para que formen un gobierno."
+            "page": 13,
+            "content": "14¿Por qué votamos?\nLa democracia es una forma de gobernar.\nUna democracia tiene 2 características importantes:\n• Los ciudadanos tienen derechos y libertades.\n• Hay separación de poderes, es decir, \n el poder del Gobierno , el poder del Parlamento \n y el poder de los jueces son independien tes. \n Cada uno tiene su espacio y sus t areas.\nEn una democracia, los ciudadanos pueden participar\nen las decisiones de los gobernantes de 2 formas:\n• Pueden votar de forma directa esas decisiones. \n Es ta es la democracia directa.\n• Pueden votar a sus representantes \n que neg ocian esas decisiones. \n Es ta es la democracia indirecta.\nEspaña es una democracia indirecta, \nporque los ciudadanos eligen a sus representantes \ncon su voto para que tomen decisiones \nque afectan a todos y para que formen un gobierno."
         },
         {
-            "Página": 14,
-            "Texto": "15¿Quién puede votar?\nEn España, los ciudadanos mayores de 18 años \ncon nacionalidad española tienen derecho \na elegir a sus representantes para que tomen decisiones \nsobre los asuntos que afectan a todos. \nEn las elecciones municipales \ntambién pueden votar los ciudadanos \nde los países de la Unión Europea \ny de otros países en donde los españoles\ntambién pueden votar en sus elecciones municipales.\nEl derecho que tienen los ciudadanos \na votar a sus representantes se llama sufragio activo. \nEn España, el sufragio activo tiene estas 5 características:\n• Es universal: pueden votar todos los ciudadanos \n ma yores de 18 años.\n• Es libre: los ciudadanos pueden votar \n al r epresentante o al partido que quieran. \n Nadie puede oblig ar a otra persona\n a v otar a un partido. \n Cada per sona vota según sus ideas \n al partido polític o o al candidato que prefiera."
+            "page": 14,
+            "content": "15¿Quién puede votar?\nEn España, los ciudadanos mayores de 18 años \ncon nacionalidad española tienen derecho \na elegir a sus representantes para que tomen decisiones \nsobre los asuntos que afectan a todos. \nEn las elecciones municipales \ntambién pueden votar los ciudadanos \nde los países de la Unión Europea \ny de otros países en donde los españoles\ntambién pueden votar en sus elecciones municipales.\nEl derecho que tienen los ciudadanos \na votar a sus representantes se llama sufragio activo. \nEn España, el sufragio activo tiene estas 5 características:\n• Es universal: pueden votar todos los ciudadanos \n ma yores de 18 años.\n• Es libre: los ciudadanos pueden votar \n al r epresentante o al partido que quieran. \n Nadie puede oblig ar a otra persona\n a v otar a un partido. \n Cada per sona vota según sus ideas \n al partido polític o o al candidato que prefiera."
         },
         {
-            "Página": 15,
-            "Texto": "16• Es igual: los votos de todos los ciudadanos \n v alen lo mismo. \n• Es directo: los ciudadanos eligen de forma directa \n a sus r epresentantes. \n• Es secreto: nadie puede obligar a una persona \n a decir a quién ha v otado.\nAdemás, el resultado de las elecciones es intocable. \nNadie puede cambiar o manipular los resultados.\n¿A quién puedo votar?\nLas personas tienen ideas muy diferentes sobre la política.\nLos grupos de personas que tienen las mismas ideas \no ideas muy parecidas suelen unirse en partidos políticos.\nEn España hay muchos partidos políticos, \npero sólo algunos consiguen gobernar \no tener representantes.\nPor ejemplo, en la Comunidad de Madrid\nparticiparon 20 partidos políticos\nen las elecciones de 2021."
+            "page": 15,
+            "content": "16• Es igual: los votos de todos los ciudadanos \n v alen lo mismo. \n• Es directo: los ciudadanos eligen de forma directa \n a sus r epresentantes. \n• Es secreto: nadie puede obligar a una persona \n a decir a quién ha v otado.\nAdemás, el resultado de las elecciones es intocable. \nNadie puede cambiar o manipular los resultados.\n¿A quién puedo votar?\nLas personas tienen ideas muy diferentes sobre la política.\nLos grupos de personas que tienen las mismas ideas \no ideas muy parecidas suelen unirse en partidos políticos.\nEn España hay muchos partidos políticos, \npero sólo algunos consiguen gobernar \no tener representantes.\nPor ejemplo, en la Comunidad de Madrid\nparticiparon 20 partidos políticos\nen las elecciones de 2021."
         },
         {
-            "Página": 16,
-            "Texto": "17Pero sólo 5 partidos consiguieron representantes: \nPartido Popular, Más Madrid, Partido Socialista Obrero Español, Vox \ny Unidas Podemos.\nEn las elecciones municipales y autonómicas,\nlos ciudadanos no votan a una persona, \nsino a una lista de personas de un partido político.\nCada partido organiza una lista con sus candidatos.\nCuantos más votos consiga el partido político \nen las elecciones, \nmás personas de la lista serán elegidas.\nEl derecho que tienen los ciudadanos \na ser candidatos en unas elecciones \nse llama sufragio pasivo. \nSus características más importantes son: \n• Todos los ciudadanos mayores de 18 años \n tienen der echo a presentarse a unas elecciones \n c omo candidatos.\n Ha y ciudadanos que no pueden presentarse, \n por ejemplo , por decisión de un juez.\n T ampoco pueden ser candidatos algunos cargos \n o empleados públic os, como los militares, los jueces \n y la F amilia Real, entre otros."
+            "page": 16,
+            "content": "17Pero sólo 5 partidos consiguieron representantes: \nPartido Popular, Más Madrid, Partido Socialista Obrero Español, Vox \ny Unidas Podemos.\nEn las elecciones municipales y autonómicas,\nlos ciudadanos no votan a una persona, \nsino a una lista de personas de un partido político.\nCada partido organiza una lista con sus candidatos.\nCuantos más votos consiga el partido político \nen las elecciones, \nmás personas de la lista serán elegidas.\nEl derecho que tienen los ciudadanos \na ser candidatos en unas elecciones \nse llama sufragio pasivo. \nSus características más importantes son: \n• Todos los ciudadanos mayores de 18 años \n tienen der echo a presentarse a unas elecciones \n c omo candidatos.\n Ha y ciudadanos que no pueden presentarse, \n por ejemplo , por decisión de un juez.\n T ampoco pueden ser candidatos algunos cargos \n o empleados públic os, como los militares, los jueces \n y la F amilia Real, entre otros."
         },
         {
-            "Página": 17,
-            "Texto": "18• Los candidatos deben competir por el voto \n de los ciudadanos. \n An tes de las elecciones hay una campaña electoral. \n En esa c ampaña, los partidos explican \n qué quier en hacer si los ciudadanos les votan \n y les in tentan convencer de que sus propuestas \n son mejor es que las de otros partidos.\n• Todos los candidatos deben tener la libertad \n de e xplicar sus propuestas \n sin que nadie se lo impida. \n• Todos los candidatos tienen derecho \n a t ener un tiempo para explicar sus propuestas \n en la c ampaña electoral \n den tro de los medios de comunicación públicos. \n La dur ación será mayor cuantos más votos \n ha ya tenido en las últimas elecciones.\n Los medios de c omunicación públicos son, \n por ejemplo , Televisión Española, Telemadrid, \n Radio Nacional de España u Onda Madrid."
+            "page": 17,
+            "content": "18• Los candidatos deben competir por el voto \n de los ciudadanos. \n An tes de las elecciones hay una campaña electoral. \n En esa c ampaña, los partidos explican \n qué quier en hacer si los ciudadanos les votan \n y les in tentan convencer de que sus propuestas \n son mejor es que las de otros partidos.\n• Todos los candidatos deben tener la libertad \n de e xplicar sus propuestas \n sin que nadie se lo impida. \n• Todos los candidatos tienen derecho \n a t ener un tiempo para explicar sus propuestas \n en la c ampaña electoral \n den tro de los medios de comunicación públicos. \n La dur ación será mayor cuantos más votos \n ha ya tenido en las últimas elecciones.\n Los medios de c omunicación públicos son, \n por ejemplo , Televisión Española, Telemadrid, \n Radio Nacional de España u Onda Madrid."
         },
         {
-            "Página": 18,
-            "Texto": "19¿Cómo puedo conocer las propuestas \nde los partidos políticos?\nLos partidos políticos hacen sus propuestas \nen programas electorales.\nLos programas electorales son documentos \nque explican todas las ideas \nque quieren hacer los partidos si gobiernan. \nPor eso, suelen ser muy largos.\nAdemás, los partidos hacen una campaña electoral \n15 días antes de las elecciones.\nEn la campaña electoral, los partidos \norganizan actos para explicar sus propuestas \ny convencer a los ciudadanos para que les voten.\nEl acto más frecuente es el mitin. \nEn los mítines, los representantes hacen discursos \ny explican sus ideas.\nLos hacen en teatros, polideportivos o plazas \nante el público.\nTambién hay debates televisados entre los candidatos \nde los partidos más votados."
+            "page": 18,
+            "content": "19¿Cómo puedo conocer las propuestas \nde los partidos políticos?\nLos partidos políticos hacen sus propuestas \nen programas electorales.\nLos programas electorales son documentos \nque explican todas las ideas \nque quieren hacer los partidos si gobiernan. \nPor eso, suelen ser muy largos.\nAdemás, los partidos hacen una campaña electoral \n15 días antes de las elecciones.\nEn la campaña electoral, los partidos \norganizan actos para explicar sus propuestas \ny convencer a los ciudadanos para que les voten.\nEl acto más frecuente es el mitin. \nEn los mítines, los representantes hacen discursos \ny explican sus ideas.\nLos hacen en teatros, polideportivos o plazas \nante el público.\nTambién hay debates televisados entre los candidatos \nde los partidos más votados."
         },
         {
-            "Página": 19,
-            "Texto": "20¿Cómo puedo votar?\nEn España, los ciudadanos pueden votar de 2 formas:\n• De forma presencial: los ciudadanos van a votar \n el día de las elecciones y me ten su voto \n de f orma personal en las urnas.\n• Por correo: los ciudadanos pueden solicitar \n el v oto por correo hasta unos días \n an tes de las elecciones. \nAlgunas personas necesitan ayuda para meter el voto \nen las urnas porque tienen problemas de movilidad\ny piden ayuda a otra persona. \nEsto se llama voto asistido.\nLas personas ciegas pueden pedir antes de las elecciones \nlas papeletas y los sobres adaptados en braille para votar.\nEl braille es un sistema de lectura y escritura para personas ciegas.Cada persona debe votar por su cuenta. \nNadie puede votar en nombre de otra persona.\nTampoco es posible votar por internet."
+            "page": 19,
+            "content": "20¿Cómo puedo votar?\nEn España, los ciudadanos pueden votar de 2 formas:\n• De forma presencial: los ciudadanos van a votar \n el día de las elecciones y me ten su voto \n de f orma personal en las urnas.\n• Por correo: los ciudadanos pueden solicitar \n el v oto por correo hasta unos días \n an tes de las elecciones. \nAlgunas personas necesitan ayuda para meter el voto \nen las urnas porque tienen problemas de movilidad\ny piden ayuda a otra persona. \nEsto se llama voto asistido.\nLas personas ciegas pueden pedir antes de las elecciones \nlas papeletas y los sobres adaptados en braille para votar.\nEl braille es un sistema de lectura y escritura para personas ciegas.Cada persona debe votar por su cuenta. \nNadie puede votar en nombre de otra persona.\nTampoco es posible votar por internet."
         },
         {
-            "Página": 20,
-            "Texto": "21España es una democracia indirecta.\nEsto significa que los ciudadanos eligen \na unos representantes que toman las decisiones \nque afectan a todos.\nEl derecho a poder votar a los representantes \nse llama sufragio activo.\nPueden votar todos los ciudadanos mayores de 18 años.El derecho a poder presentarse como candidato \ny ser elegido se llama sufragio pasivo.\nLos ciudadanos votan listas de candidatos \nde partidos políticos.\nLos ciudadanos pueden conocer las propuestas \nde los partidos por los programas electorales.\nLos ciudadanos pueden votar de forma presencial \no por correo.¿De qué hemos hablado en este capítulo?"
+            "page": 20,
+            "content": "21España es una democracia indirecta.\nEsto significa que los ciudadanos eligen \na unos representantes que toman las decisiones \nque afectan a todos.\nEl derecho a poder votar a los representantes \nse llama sufragio activo.\nPueden votar todos los ciudadanos mayores de 18 años.El derecho a poder presentarse como candidato \ny ser elegido se llama sufragio pasivo.\nLos ciudadanos votan listas de candidatos \nde partidos políticos.\nLos ciudadanos pueden conocer las propuestas \nde los partidos por los programas electorales.\nLos ciudadanos pueden votar de forma presencial \no por correo.¿De qué hemos hablado en este capítulo?"
         },
         {
-            "Página": 21,
-            "Texto": ""
+            "page": 21,
+            "content": ""
         },
         {
-            "Página": 22,
-            "Texto": "ANTES DE VOTAR"
+            "page": 22,
+            "content": "ANTES DE VOTAR"
         },
         {
-            "Página": 23,
-            "Texto": "24¿Debo estar en alguna lista para ir a votar?\nSí, debes estar en el censo electoral.\nEl censo electoral es la lista de todas las personas \nque tienen derecho a votar, llamados electores o votantes.\nLos votantes son:\n• Mayores de 18 años.\n• Con nacionalidad española.• Para las elecciones municipales, \n los e xtranjeros de los países de la Unión Europea\n y de otr os países en donde los españoles\n t ambién pueden votar en sus elecciones municipales. \nEl censo toma los datos del Padrón Municipal.\nEl Padrón Municipal es la lista de personas \nque viven en un pueblo o una ciudad.\nDebes tener en cuenta algunas situaciones:\n• Si te has cambiado de casa, es importante \n que t e empadrones en tu municipio. \n Debes hacer es te trámite en el ayuntamiento. \n Así tus da tos también estarán actualizados \n en el censo elect oral."
+            "page": 23,
+            "content": "24¿Debo estar en alguna lista para ir a votar?\nSí, debes estar en el censo electoral.\nEl censo electoral es la lista de todas las personas \nque tienen derecho a votar, llamados electores o votantes.\nLos votantes son:\n• Mayores de 18 años.\n• Con nacionalidad española.• Para las elecciones municipales, \n los e xtranjeros de los países de la Unión Europea\n y de otr os países en donde los españoles\n t ambién pueden votar en sus elecciones municipales. \nEl censo toma los datos del Padrón Municipal.\nEl Padrón Municipal es la lista de personas \nque viven en un pueblo o una ciudad.\nDebes tener en cuenta algunas situaciones:\n• Si te has cambiado de casa, es importante \n que t e empadrones en tu municipio. \n Debes hacer es te trámite en el ayuntamiento. \n Así tus da tos también estarán actualizados \n en el censo elect oral."
         },
         {
-            "Página": 24,
-            "Texto": "25• Si eres un ciudadano de la Unión Europea \n y viv es en un pueblo o una ciudad española, \n debes es tar empadronado para poder votar \n en las elecciones municipales. \n P or ejemplo, si vienes solo de vacaciones \n por dos semanas y c oincide que hay elecciones, \n no puedes v otar.\n¿Cómo puedo comprobar que mis datos \nson correctos en el censo?\nTodos los ciudadanos reciben una tarjeta censal \npor correo.\n2023"
+            "page": 24,
+            "content": "25• Si eres un ciudadano de la Unión Europea \n y viv es en un pueblo o una ciudad española, \n debes es tar empadronado para poder votar \n en las elecciones municipales. \n P or ejemplo, si vienes solo de vacaciones \n por dos semanas y c oincide que hay elecciones, \n no puedes v otar.\n¿Cómo puedo comprobar que mis datos \nson correctos en el censo?\nTodos los ciudadanos reciben una tarjeta censal \npor correo.\n2023"
         },
         {
-            "Página": 25,
-            "Texto": "26\nLa tarjeta censal indica:\n• Tu nombre y apellidos.\n• Tu dirección.• El colegio electoral donde puedes ir a votar. \n Den tro del colegio hay varias zonas \n que se llaman secciones \n y en c ada sección hay varias mesas. \n En la t arjeta te vienen todos estos datos."
+            "page": 25,
+            "content": "26\nLa tarjeta censal indica:\n• Tu nombre y apellidos.\n• Tu dirección.• El colegio electoral donde puedes ir a votar. \n Den tro del colegio hay varias zonas \n que se llaman secciones \n y en c ada sección hay varias mesas. \n En la t arjeta te vienen todos estos datos."
         },
         {
-            "Página": 26,
-            "Texto": "27Debes fijarte si ocurre alguna de estas situaciones:\n• La tarjeta censal viene con algún error, \n por ejemplo , alguna letra mal escrita en tu nombre.\n• La tarjeta censal llega a la casa donde vivías antes.\nEn estos casos, debes ir al ayuntamiento \na presentar una reclamación para que corrijan los errores.\nNo puedo ir a votar el día de las elecciones, \n¿cómo pido el voto por correo?\nPuedes pedir el voto por correo en una oficina de Correos \no por internet.\nPara pedirlo en una oficina de Correos, sigue estos pasos:\n1. En una oficina de Correos debes pedir \n y r ellenar la solicitud para votar por correo.\n R ecuerda que debes llevar el DNI.\n En trega la solicitud en la oficina de Correos.\n P uedes entregar la solicitud \n desde que anuncian las elecciones \n has ta 10 días antes del día de las elecciones."
+            "page": 26,
+            "content": "27Debes fijarte si ocurre alguna de estas situaciones:\n• La tarjeta censal viene con algún error, \n por ejemplo , alguna letra mal escrita en tu nombre.\n• La tarjeta censal llega a la casa donde vivías antes.\nEn estos casos, debes ir al ayuntamiento \na presentar una reclamación para que corrijan los errores.\nNo puedo ir a votar el día de las elecciones, \n¿cómo pido el voto por correo?\nPuedes pedir el voto por correo en una oficina de Correos \no por internet.\nPara pedirlo en una oficina de Correos, sigue estos pasos:\n1. En una oficina de Correos debes pedir \n y r ellenar la solicitud para votar por correo.\n R ecuerda que debes llevar el DNI.\n En trega la solicitud en la oficina de Correos.\n P uedes entregar la solicitud \n desde que anuncian las elecciones \n has ta 10 días antes del día de las elecciones."
         },
         {
-            "Página": 27,
-            "Texto": "282. Después de unos días, recibirás en tu casa \n un sobr e grande con:\n • Todas las papeletas de los partidos \n que se pr esentan a las elecciones.\n Cada papele ta tiene un color diferente \n según las elecciones.\n • Un sobre pequeño para meter \n la papele ta del partido que quieres votar. \n P ara las elecciones de mayo de 2023 \n v as a recibir varios sobres: \n  n Para las elecciones municipales. \n  n Para las elecciones autonómicas.\n R ecuerda que este día son también \n las elecciones aut onómicas \n en la Comunidad de Madrid \n y otr as 12 comunidades más, \n jun to con Ceuta y Melilla.\n Los sobr es tienen el mismo color de las papeletas, \n según las elecciones.\n • Un sobre mediano para la mesa electoral \n donde poner t odos los sobres con tus votos.\n3. Comprueba que pones la papeleta del partido \n que quier es votar en el sobre del mismo color."
+            "page": 27,
+            "content": "282. Después de unos días, recibirás en tu casa \n un sobr e grande con:\n • Todas las papeletas de los partidos \n que se pr esentan a las elecciones.\n Cada papele ta tiene un color diferente \n según las elecciones.\n • Un sobre pequeño para meter \n la papele ta del partido que quieres votar. \n P ara las elecciones de mayo de 2023 \n v as a recibir varios sobres: \n  n Para las elecciones municipales. \n  n Para las elecciones autonómicas.\n R ecuerda que este día son también \n las elecciones aut onómicas \n en la Comunidad de Madrid \n y otr as 12 comunidades más, \n jun to con Ceuta y Melilla.\n Los sobr es tienen el mismo color de las papeletas, \n según las elecciones.\n • Un sobre mediano para la mesa electoral \n donde poner t odos los sobres con tus votos.\n3. Comprueba que pones la papeleta del partido \n que quier es votar en el sobre del mismo color."
         },
         {
-            "Página": 28,
-            "Texto": "294. Debes llevar el sobre de los votos \n a una oficina de Corr eos. \n R ecuerda que debes llevar el DNI.\n Nunc a eches el sobre en un buzón \n por que no es válido.\nPuedes votar por correo de forma gratuita.\nNo pagas por ningún envío.\nPara pedir el voto por correo, sigue estos pasos:\n1. Entra en la página voto por correo de Correos.\n2. Sigue los pasos que te indican en la página web\n     Recuerda que debes tener un ordenador con un certificado digital \n     o un certificado de DNI electrónico.\n     Un certificado digital es un programa \n     que te permite hacer gestiones en internet de forma segura.\n     También debes tener instalado un programa \n     que se llama Autofirma."
+            "page": 28,
+            "content": "294. Debes llevar el sobre de los votos \n a una oficina de Corr eos. \n R ecuerda que debes llevar el DNI.\n Nunc a eches el sobre en un buzón \n por que no es válido.\nPuedes votar por correo de forma gratuita.\nNo pagas por ningún envío.\nPara pedir el voto por correo, sigue estos pasos:\n1. Entra en la página voto por correo de Correos.\n2. Sigue los pasos que te indican en la página web\n     Recuerda que debes tener un ordenador con un certificado digital \n     o un certificado de DNI electrónico.\n     Un certificado digital es un programa \n     que te permite hacer gestiones en internet de forma segura.\n     También debes tener instalado un programa \n     que se llama Autofirma."
         },
         {
-            "Página": 29,
-            "Texto": "30\nTitular\nTextoLos votantes deben estar apuntados \nen el Censo Electoral.\nRecuerda que los datos deben ser correctos y actuales.Puedes comprobar tus datos en la tarjeta censal \nque recibirás en tu buzón \nunos días antes de las elecciones.\nSi ves algún error, debes ir al ayuntamiento \npara que lo corrijan.\nDebes ir a una oficina de Correos \npara solicitar el voto por correo.\nRecibirás en tu casa \ntodas las papeletas y los sobres.¿De qué hemos hablado en este capítulo?"
+            "page": 29,
+            "content": "30\nTitular\nTextoLos votantes deben estar apuntados \nen el Censo Electoral.\nRecuerda que los datos deben ser correctos y actuales.Puedes comprobar tus datos en la tarjeta censal \nque recibirás en tu buzón \nunos días antes de las elecciones.\nSi ves algún error, debes ir al ayuntamiento \npara que lo corrijan.\nDebes ir a una oficina de Correos \npara solicitar el voto por correo.\nRecibirás en tu casa \ntodas las papeletas y los sobres.¿De qué hemos hablado en este capítulo?"
         },
         {
-            "Página": 30,
-            "Texto": "EL DÍA \nDE LAS ELECCIONES\nVOTE"
+            "page": 30,
+            "content": "EL DÍA \nDE LAS ELECCIONES\nVOTE"
         },
         {
-            "Página": 31,
-            "Texto": "32¿Dónde hay que ir a votar?\nLos ciudadanos pueden ir a los colegios electorales \npara votar en las elecciones. \nUn colegio electoral puede estar en un colegio, \nun instituto o un edificio del ayuntamiento, \npor ejemplo, un centro cultural.\nPuedes ver dónde está tu colegio electoral \nen tu tarjeta censal.\n¿Cuál es el horario para votar?\nLos colegios electorales abren desde las 9 de la mañana \nhasta las 8 de la tarde.\n¿Qué me encontraré en el colegio electoral?\nEl día de las elecciones encontrarás en el colegio electoral:VOTE"
+            "page": 31,
+            "content": "32¿Dónde hay que ir a votar?\nLos ciudadanos pueden ir a los colegios electorales \npara votar en las elecciones. \nUn colegio electoral puede estar en un colegio, \nun instituto o un edificio del ayuntamiento, \npor ejemplo, un centro cultural.\nPuedes ver dónde está tu colegio electoral \nen tu tarjeta censal.\n¿Cuál es el horario para votar?\nLos colegios electorales abren desde las 9 de la mañana \nhasta las 8 de la tarde.\n¿Qué me encontraré en el colegio electoral?\nEl día de las elecciones encontrarás en el colegio electoral:VOTE"
         },
         {
-            "Página": 32,
-            "Texto": "33• Las listas del censo electoral para que encuentres \n tu sección y tu mesa elect oral.\n Es ta información viene en la tarjeta censal, \n per o también la puedes encontrar en estas listas.\n• Las papeletas electorales de todos los partidos \n que participan en las elecciones. \n En las papele tas viene el nombre del partido, \n su mar ca o logotipo y los nombres y apellidos \n de t odos los candidatos de la lista.VOTE\n2023"
+            "page": 32,
+            "content": "33• Las listas del censo electoral para que encuentres \n tu sección y tu mesa elect oral.\n Es ta información viene en la tarjeta censal, \n per o también la puedes encontrar en estas listas.\n• Las papeletas electorales de todos los partidos \n que participan en las elecciones. \n En las papele tas viene el nombre del partido, \n su mar ca o logotipo y los nombres y apellidos \n de t odos los candidatos de la lista.VOTE\n2023"
         },
         {
-            "Página": 33,
-            "Texto": "34• Los sobres oficiales para meter \n la papele ta electoral del partido que elijas. \n Es tos sobres son opacos, es decir, \n es imposible v er qué hay dentro.\n• Las cabinas de voto para que puedas elegir \n la papele ta que quieras y guardarla\n en el sobr e sin que nadie te vea.\n•  Las mesas elect orales donde están las urnas\n par a votar. \n En la mesa ha y 3 personas: un presidente \n y 2 v ocales.\n Los v ocales ayudan al presidente de la mesa.\n•  Los apoder ados y los interventores. \n En la mesa t ambién pueden estar estas personas, \n que r epresentan a los partidos políticos \n que participan en las elecciones.VOTE"
+            "page": 33,
+            "content": "34• Los sobres oficiales para meter \n la papele ta electoral del partido que elijas. \n Es tos sobres son opacos, es decir, \n es imposible v er qué hay dentro.\n• Las cabinas de voto para que puedas elegir \n la papele ta que quieras y guardarla\n en el sobr e sin que nadie te vea.\n•  Las mesas elect orales donde están las urnas\n par a votar. \n En la mesa ha y 3 personas: un presidente \n y 2 v ocales.\n Los v ocales ayudan al presidente de la mesa.\n•  Los apoder ados y los interventores. \n En la mesa t ambién pueden estar estas personas, \n que r epresentan a los partidos políticos \n que participan en las elecciones.VOTE"
         },
         {
-            "Página": 34,
-            "Texto": "35 Los apoder ados pueden estar \n en cualquier mesa elect oral. \n Los in terventores solo pueden estar \n en una mesa elect oral.\n Ellos vigilan que t odo el mundo vote sin problemas \n y las elecciones funcionen bien.\n•  P olicías que vigilan que no hay incidentes \n ni pr oblemas de seguridad en el colegio electoral \n dur ante las elecciones.\n¿Qué pasos debo seguir para votar?\nSigue estos pasos para participar en unas elecciones:\nPaso 1\nVe al colegio electoral. \nLocaliza tu sección y tu mesa electoral.\nRecuerda que esa información viene en la tarjeta censal.\nSi lo has olvidado, puedes consultarla \nen las listas del censo electoral. \nEstas listas suelen estar en la entrada del colegio.\nPaso 2\nVe a la sala donde está tu mesa electoral.VOTE"
+            "page": 34,
+            "content": "35 Los apoder ados pueden estar \n en cualquier mesa elect oral. \n Los in terventores solo pueden estar \n en una mesa elect oral.\n Ellos vigilan que t odo el mundo vote sin problemas \n y las elecciones funcionen bien.\n•  P olicías que vigilan que no hay incidentes \n ni pr oblemas de seguridad en el colegio electoral \n dur ante las elecciones.\n¿Qué pasos debo seguir para votar?\nSigue estos pasos para participar en unas elecciones:\nPaso 1\nVe al colegio electoral. \nLocaliza tu sección y tu mesa electoral.\nRecuerda que esa información viene en la tarjeta censal.\nSi lo has olvidado, puedes consultarla \nen las listas del censo electoral. \nEstas listas suelen estar en la entrada del colegio.\nPaso 2\nVe a la sala donde está tu mesa electoral.VOTE"
         },
         {
-            "Página": 35,
-            "Texto": "36En esa sala están las papeletas de los partidos políticos \ny los sobres para meterlas.\nPuedes cogerlas de las mesas y estanterías de la sala.\nTambién puedes cogerlas en las cabinas, \npara que nadie vea la papeleta que eliges.\nTu voto puede ser:\n• V álido: introduces la papeleta de un partido \n en un sobr e oficial.\n• En blanc o: no introduces ninguna papeleta \n de ningún partido. \n Solo en tregas el sobre. \n Es to significa que quieres votar, \n per o sientes que ningún partido \n r epresenta tus ideas.\n No v otas a ningún partido,\n per o tu voto cuenta en blanco.\n• Nulo: por ejemplo , si introduces 2 papeletas \n de 2 partidos polític os diferentes en un sobre,\n una papele ta rota, pintas en la papeleta, \n me tes otro papel en el sobre o un objeto. \n En es tos casos, tu voto no contará y será nulo.\nCuando hay varias elecciones a la vez, \nlas papeletas y los sobres tienen colores diferentes.VOTE"
+            "page": 35,
+            "content": "36En esa sala están las papeletas de los partidos políticos \ny los sobres para meterlas.\nPuedes cogerlas de las mesas y estanterías de la sala.\nTambién puedes cogerlas en las cabinas, \npara que nadie vea la papeleta que eliges.\nTu voto puede ser:\n• V álido: introduces la papeleta de un partido \n en un sobr e oficial.\n• En blanc o: no introduces ninguna papeleta \n de ningún partido. \n Solo en tregas el sobre. \n Es to significa que quieres votar, \n per o sientes que ningún partido \n r epresenta tus ideas.\n No v otas a ningún partido,\n per o tu voto cuenta en blanco.\n• Nulo: por ejemplo , si introduces 2 papeletas \n de 2 partidos polític os diferentes en un sobre,\n una papele ta rota, pintas en la papeleta, \n me tes otro papel en el sobre o un objeto. \n En es tos casos, tu voto no contará y será nulo.\nCuando hay varias elecciones a la vez, \nlas papeletas y los sobres tienen colores diferentes.VOTE"
         },
         {
-            "Página": 36,
-            "Texto": "37Por ejemplo, el 28 de mayo verás 2 colores \nen las papeletas y en los sobres:\n• Blanc o: son para las elecciones municipales.\n• Sepia : son para las elecciones autonómicas.\nSepia\nEl color sepia es parecido al naranja o rojo claro.?\nPaso 3\nVe a la mesa electoral.\nLas mesas tienen una señal \ncon unas letras del abecedario.\nEstas letras indican los apellidos \nque corresponden a esa mesa.\nPor ejemplo, hay mesas que ponen A-L. \nSignifica que pueden votar las personas \nque tengan apellidos que empiecen desde la A hasta la L.\nDebes enseñar tu DNI, tu pasaporte \no tu carné de conducir.\nEstos documentos pueden estar caducados, \npero no valen fotocopias.\nUn vocal comprobará tu nombre en el censo electoral.\nOtro vocal anotará tu nombre en una lista.VOTE"
+            "page": 36,
+            "content": "37Por ejemplo, el 28 de mayo verás 2 colores \nen las papeletas y en los sobres:\n• Blanc o: son para las elecciones municipales.\n• Sepia : son para las elecciones autonómicas.\nSepia\nEl color sepia es parecido al naranja o rojo claro.?\nPaso 3\nVe a la mesa electoral.\nLas mesas tienen una señal \ncon unas letras del abecedario.\nEstas letras indican los apellidos \nque corresponden a esa mesa.\nPor ejemplo, hay mesas que ponen A-L. \nSignifica que pueden votar las personas \nque tengan apellidos que empiecen desde la A hasta la L.\nDebes enseñar tu DNI, tu pasaporte \no tu carné de conducir.\nEstos documentos pueden estar caducados, \npero no valen fotocopias.\nUn vocal comprobará tu nombre en el censo electoral.\nOtro vocal anotará tu nombre en una lista.VOTE"
         },
         {
-            "Página": 37,
-            "Texto": "38El presidente cogerá tu DNI, dirá en voz alta\ntu nombre completo y la palabra “voto”.\nDespués, podrás depositar el voto en la urna.\nEl día 28 de mayo habrá 2 urnas con los mismos colores \nque las papeletas y los sobres:\n• Blanco: para las elecciones municipales.\n• Sepia: para las elecciones autonómicas.\nPaso 4\nMete tu voto en la urna.\nEl día 28 de mayo tendrás que introducir 2 votos, \nuno por cada elección.\nAquí acaba tu participación en las elecciones.VOTE"
+            "page": 37,
+            "content": "38El presidente cogerá tu DNI, dirá en voz alta\ntu nombre completo y la palabra “voto”.\nDespués, podrás depositar el voto en la urna.\nEl día 28 de mayo habrá 2 urnas con los mismos colores \nque las papeletas y los sobres:\n• Blanco: para las elecciones municipales.\n• Sepia: para las elecciones autonómicas.\nPaso 4\nMete tu voto en la urna.\nEl día 28 de mayo tendrás que introducir 2 votos, \nuno por cada elección.\nAquí acaba tu participación en las elecciones.VOTE"
         },
         {
-            "Página": 38,
-            "Texto": "39Los ciudadanos van a votar a los colegios electorales.\nLos colegios electorales abren desde las 9 de la mañana \nhasta las 8 de la tarde.\nEn el colegio electoral encontrarás:\n• Las listas del censo electoral.\n• Las papeletas con las listas de candidatos \n de los partidos.\n• Los sobres para meter la papeleta \n de c ada una de las elecciones.\n• Las cabinas de voto para elegir \n tu papele ta en secreto.\n• Las mesas electorales para votar.\nPara votar, sigue estos pasos:\n• Ve al colegio electoral.\n• Elige la papeleta del partido que tú quieras votar.  \n T ambién puedes decidir dejar \n tu sobr e sin papeleta.\n• Ve a la mesa electoral. \n Allí c omprobarán tu identidad y podrás votar.¿De qué hemos hablado en este capítulo?VOTE"
+            "page": 38,
+            "content": "39Los ciudadanos van a votar a los colegios electorales.\nLos colegios electorales abren desde las 9 de la mañana \nhasta las 8 de la tarde.\nEn el colegio electoral encontrarás:\n• Las listas del censo electoral.\n• Las papeletas con las listas de candidatos \n de los partidos.\n• Los sobres para meter la papeleta \n de c ada una de las elecciones.\n• Las cabinas de voto para elegir \n tu papele ta en secreto.\n• Las mesas electorales para votar.\nPara votar, sigue estos pasos:\n• Ve al colegio electoral.\n• Elige la papeleta del partido que tú quieras votar.  \n T ambién puedes decidir dejar \n tu sobr e sin papeleta.\n• Ve a la mesa electoral. \n Allí c omprobarán tu identidad y podrás votar.¿De qué hemos hablado en este capítulo?VOTE"
         },
         {
-            "Página": 39,
-            "Texto": ""
+            "page": 39,
+            "content": ""
         },
         {
-            "Página": 40,
-            "Texto": "LOS \nRESULTADOS DE LAS ELECCIONES\n"
+            "page": 40,
+            "content": "LOS \nRESULTADOS DE LAS ELECCIONES\n"
         },
         {
-            "Página": 41,
-            "Texto": "42¿Quién se encarga de contar los votos \nde las mesas?\nDespués de que cierran los colegios electorales, \nempieza el escrutinio.\nEl escrutinio es el recuento de los votos de las urnas.\nEl presidente se encarga de abrir la urna.\nÉl se encarga también de sacar las papeletas \nde los sobres y leer el nombre del partido.\nEl presidente enseña cada papeleta a los vocales, \napoderados e interventores que hay en la mesa.\nEl presidente también abre los votos por correo \nde esa mesa.\nLos vocales toman nota de cada voto.\nLos apoderados e interventores de los partidos \nque participan en las elecciones \nvigilan que el recuento es correcto.\nCuando el presidente termina \nde sacar todas las papeletas de los sobres, \nrellena el acta del escrutinio.\nEn el acta del escrutinio, \nel presidente y los vocales anotan: "
+            "page": 41,
+            "content": "42¿Quién se encarga de contar los votos \nde las mesas?\nDespués de que cierran los colegios electorales, \nempieza el escrutinio.\nEl escrutinio es el recuento de los votos de las urnas.\nEl presidente se encarga de abrir la urna.\nÉl se encarga también de sacar las papeletas \nde los sobres y leer el nombre del partido.\nEl presidente enseña cada papeleta a los vocales, \napoderados e interventores que hay en la mesa.\nEl presidente también abre los votos por correo \nde esa mesa.\nLos vocales toman nota de cada voto.\nLos apoderados e interventores de los partidos \nque participan en las elecciones \nvigilan que el recuento es correcto.\nCuando el presidente termina \nde sacar todas las papeletas de los sobres, \nrellena el acta del escrutinio.\nEn el acta del escrutinio, \nel presidente y los vocales anotan: "
         },
         {
-            "Página": 42,
-            "Texto": "43• El número de personas que aparecen \n en el censo elect oral de esa mesa, \n• el número de votos totales, \n• el número de votos que ha recibido cada partido, • los votos en blanco \n• y los votos nulos.\nDespués, el presidente y los vocales envían el acta \na la Junta Electoral.\nLa Junta Electoral se encarga de recoger la información de los votos de todas las mesas electorales.\n¿Quién se encarga de dar los resultados \nde las elecciones?\nEn las elecciones municipales,\nla Junta Electoral Central es la encargada \nde sumar los votos de todas las mesas\nde todos los colegios electorales.\nLa Junta Electoral Central es una institución \nque está encargada de varios asuntos \nrelacionados con las elecciones. "
+            "page": 42,
+            "content": "43• El número de personas que aparecen \n en el censo elect oral de esa mesa, \n• el número de votos totales, \n• el número de votos que ha recibido cada partido, • los votos en blanco \n• y los votos nulos.\nDespués, el presidente y los vocales envían el acta \na la Junta Electoral.\nLa Junta Electoral se encarga de recoger la información de los votos de todas las mesas electorales.\n¿Quién se encarga de dar los resultados \nde las elecciones?\nEn las elecciones municipales,\nla Junta Electoral Central es la encargada \nde sumar los votos de todas las mesas\nde todos los colegios electorales.\nLa Junta Electoral Central es una institución \nque está encargada de varios asuntos \nrelacionados con las elecciones. "
         },
         {
-            "Página": 43,
-            "Texto": "44Esta Junta ofrece los resultados finales de las elecciones\nde cada partido político.\nLa Junta Electoral Central se encarga de resolver:\n• Dudas y consultas de las juntas electorales \n de c omunidades autónomas y provincias.\n• Quejas y reclamaciones sobre las elecciones.\nTambién puede imponer sanciones por infracciones \nque han ocurrido en las elecciones.\nPor ejemplo, el presidente de una mesa no se presenta \nel día de las elecciones y no lo justifica.\nEsta persona recibe una multa.\nEn las elecciones autonómicas,\nla Junta Electoral Provincial es la encargada \nde sumar los votos de todas las mesas\nde todos los colegios electorales.\nLa Junta Electoral Provincial ofrece los resultados finales \nde cada partido."
+            "page": 43,
+            "content": "44Esta Junta ofrece los resultados finales de las elecciones\nde cada partido político.\nLa Junta Electoral Central se encarga de resolver:\n• Dudas y consultas de las juntas electorales \n de c omunidades autónomas y provincias.\n• Quejas y reclamaciones sobre las elecciones.\nTambién puede imponer sanciones por infracciones \nque han ocurrido en las elecciones.\nPor ejemplo, el presidente de una mesa no se presenta \nel día de las elecciones y no lo justifica.\nEsta persona recibe una multa.\nEn las elecciones autonómicas,\nla Junta Electoral Provincial es la encargada \nde sumar los votos de todas las mesas\nde todos los colegios electorales.\nLa Junta Electoral Provincial ofrece los resultados finales \nde cada partido."
         },
         {
-            "Página": 44,
-            "Texto": "45¿Cómo puedo saber el resultado \nde las elecciones?\nEn las elecciones municipales, \nel Ministerio del Interior de España \nofrece los resultados provisionales \nel mismo día de las elecciones.\nEn las elecciones autonómicas,\nel Gobierno de la Comunidad de Madrid \nofrece los datos provisionales\nel mismo día de las elecciones.\nLos resultados son provisionales, \nporque todavía no son definitivos.\nLos medios de comunicación también cuentan \nlos resultados.También puedes ver el resultado \nde las elecciones municipales\nen la página web http://www.infoelectoral.mir.es\ny de las elecciones a la Comunidad de Madrid en la página web \nhttps://www.asambleamadrid.es/"
+            "page": 44,
+            "content": "45¿Cómo puedo saber el resultado \nde las elecciones?\nEn las elecciones municipales, \nel Ministerio del Interior de España \nofrece los resultados provisionales \nel mismo día de las elecciones.\nEn las elecciones autonómicas,\nel Gobierno de la Comunidad de Madrid \nofrece los datos provisionales\nel mismo día de las elecciones.\nLos resultados son provisionales, \nporque todavía no son definitivos.\nLos medios de comunicación también cuentan \nlos resultados.También puedes ver el resultado \nde las elecciones municipales\nen la página web http://www.infoelectoral.mir.es\ny de las elecciones a la Comunidad de Madrid en la página web \nhttps://www.asambleamadrid.es/"
         },
         {
-            "Página": 45,
-            "Texto": "46Los resultados definitivos tardan en publicarse \n40 días después de las elecciones. \nEn esos 40 días, puede haber reclamaciones \nque deben resolver las Juntas Electorales.\nLos resultados finales de las elecciones municipales \nserán publicados\npor la Junta Electoral Central \nen el Boletín Oficial del Estado.\nEn el Boletín Oficial del Estado se publican las leyes \ny otras decisiones importantes \nde los gobiernos y parlamentos de España.\nPor ejemplo, una ley solo puede aplicarse \ncuando está publicada en el Boletín Oficial del Estado. \nSin publicarse esa ley, es como si no existiera.\nLos resultados finales de las elecciones autonómicas \nlos publica la Junta Electoral Provincial \nen el Boletín Oficial de la Comunidad de Madrid."
+            "page": 45,
+            "content": "46Los resultados definitivos tardan en publicarse \n40 días después de las elecciones. \nEn esos 40 días, puede haber reclamaciones \nque deben resolver las Juntas Electorales.\nLos resultados finales de las elecciones municipales \nserán publicados\npor la Junta Electoral Central \nen el Boletín Oficial del Estado.\nEn el Boletín Oficial del Estado se publican las leyes \ny otras decisiones importantes \nde los gobiernos y parlamentos de España.\nPor ejemplo, una ley solo puede aplicarse \ncuando está publicada en el Boletín Oficial del Estado. \nSin publicarse esa ley, es como si no existiera.\nLos resultados finales de las elecciones autonómicas \nlos publica la Junta Electoral Provincial \nen el Boletín Oficial de la Comunidad de Madrid."
         },
         {
-            "Página": 46,
-            "Texto": "47Los presidentes de las mesas electorales \nse encargan de abrir los sobres, \nver qué contiene cada sobre\ny leer el nombre del partido político de cada papeleta.\nEl presidente y los vocales de cada mesa rellenan \nel acta de escrutinio con los resultados.\nLa Junta Electoral Central suma los votos de cada mesa \ny ofrece los resultados finales de cada partido.\nEl Ministerio del Interior ofrece los resultados provisionales \nel día de las elecciones.\nTambién puedes conocer los resultados el mismo día\na través de los medios de comunicación, \ncomo televisiones, radios \no periódicos por internet.¿De qué hemos hablado en este capítulo?"
+            "page": 46,
+            "content": "47Los presidentes de las mesas electorales \nse encargan de abrir los sobres, \nver qué contiene cada sobre\ny leer el nombre del partido político de cada papeleta.\nEl presidente y los vocales de cada mesa rellenan \nel acta de escrutinio con los resultados.\nLa Junta Electoral Central suma los votos de cada mesa \ny ofrece los resultados finales de cada partido.\nEl Ministerio del Interior ofrece los resultados provisionales \nel día de las elecciones.\nTambién puedes conocer los resultados el mismo día\na través de los medios de comunicación, \ncomo televisiones, radios \no periódicos por internet.¿De qué hemos hablado en este capítulo?"
         },
         {
-            "Página": 47,
-            "Texto": ""
+            "page": 47,
+            "content": ""
         },
         {
-            "Página": 48,
-            "Texto": ""
+            "page": 48,
+            "content": ""
         },
         {
-            "Página": 49,
-            "Texto": ""
+            "page": 49,
+            "content": ""
         },
         {
-            "Página": 50,
-            "Texto": ""
+            "page": 50,
+            "content": ""
         },
         {
-            "Página": 51,
-            "Texto": ""
+            "page": 51,
+            "content": ""
         }
     ]
 }
